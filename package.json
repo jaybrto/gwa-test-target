@@ -1,0 +1,9 @@
+{
+  "name": "gwa-test-target",
+  "version": "1.0.0",
+  "description": "GWA E2E test target — simple counter app processed by GitHub Workflow Agents",
+  "scripts": {
+    "start": "bun run index.ts",
+    "test": "bun test"
+  }
+}
